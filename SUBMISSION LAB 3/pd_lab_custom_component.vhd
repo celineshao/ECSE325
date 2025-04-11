@@ -3,7 +3,7 @@
 --
 -- Version 1.0
 -- Authors: Celine Shao, Anna Joy Aylward Burgess
--- Date: March 28, 2025 (enter the date of the latest edit to the file)
+-- Date: April 9, 2025 (enter the date of the latest edit to the file)
 
 library ieee; -- allows use of the std_logic_vector type
 use ieee.std_logic_1164.all;
